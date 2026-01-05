@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "example-article",
+      "title": "Example Article",
+      "excerpt": "This is an example article to help you get started. Replace this with your own content.",
+      "content": "<p>This is an example article. You can replace this content with your actual articles.</p><p>Articles support HTML formatting, so you can use <strong>bold</strong>, <em>italic</em>, links, and more.</p>",
+      "image": "https://raw.githubusercontent.com/ExoFi-Labs/ExoFi-Articles/main/images/example.jpg",
+      "publishedDate": "2024-01-15T00:00:00Z",
+      "linkedInUrl": "https://www.linkedin.com/posts/your-article-url"
+    }
+  ]
+}
+
